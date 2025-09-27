@@ -1,123 +1,92 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Sabith!;🤖+Machine+Learning+Enthusiast;🚀+Deep+Learning+Explorer;🌟+Always+Learning" alt="Typing SVG" />
-</h1>
+# Hi 👋, I'm Muhammad Sabith
+
+### Profile Views :-
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-sabithh&color=00F700&style=for-the-badge)
+
+- 🌱 I’m currently learning **Deep Learning & AI Innovations** 🤖
+- 🔹 Skilled in **Data Preprocessing, EDA, Model Building** 💻
+- 📫 How to reach me: [muhammadsabith386@gmail.com](mailto:muhammadsabith386@gmail.com)
+- ⚡ Fun fact: **Code, Coffee, and Curiosity** ☕🚀
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sabith)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsabith386@gmail.com)
 
 ---
 
-<!-- Floating Skills Cloud -->
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,pytorch,tensorflow,flask,streamlit,jupyter,git,github,vscode,matplotlib,seaborn" style="animation: float 6s ease-in-out infinite;" />
+</div>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,streamlit,mysql,git,github,vscode,anaconda" style="animation: float 6s ease-in-out infinite;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Matplotlib-%23172023.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-%239C4647.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
 
 <style>
 @keyframes float {
   0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
+  50% { transform: translateY(-20px); }
   100% { transform: translateY(0px); }
 }
 .fade-in {
   opacity: 0;
-  animation: fadeIn 1s forwards;
+  animation: fadeIn 2s ease-in-out forwards;
 }
 @keyframes fadeIn {
-  to { opacity: 1; }
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+.pulse {
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
 }
 </style>
 
 ---
 
-## 👨‍💻 About Me  
-🔹 Passionate about **Machine Learning & Deep Learning** 🤖  
-🔹 Skilled in **Python, Flask, Streamlit, AI projects** 💻  
-🔹 Focused on **building impactful real-world applications** 🌟  
+## ⚡ Stats ⚡
 
----
-
-## ⚡ Tech Stack (Hover-Animated Skill Bars)  
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-100%25-green?style=for-the-badge&logo=python&logoColor=white" title="Python 🐍" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-90%25-orange?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch 🔥" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-85%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow ⚡" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-80%25-red?style=for-the-badge&logo=flask&logoColor=white" title="Flask 🌐" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Streamlit-80%25-blue?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit 🌊" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-</p>
-
----
-
-## 🚀 Featured Projects Timeline  
-
-<div align="center">
-
-<div class="fade-in" style="animation-delay: 0.5s;">
-  <b>🎯 Safe Horizon:</b> Drug risk prediction using ML
-</div>
-
-<div class="fade-in" style="animation-delay: 1.5s;">
-  <b>📷 Smart Attendance System:</b> Face recognition + QR-based attendance
-</div>
-
-<div class="fade-in" style="animation-delay: 2.5s;">
-  <b>📊 Anomaly Detection:</b> Video anomaly detection using Deep Learning
-</div>
-
+<div align="center" class="fade-in">
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical&border_radius=10&stroke=00F700&background=0D1117)
+  <br><br>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&hide=issues)
+  <br><br>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sabithh&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF)
 </div>
 
 ---
 
-## 📈 GitHub Analytics (Hover Effects)  
+## 🐍 My Contributions 🐍
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sabithh&layout=compact&theme=radical" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"></a>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-sabithh&theme=radical&hide_border=true" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"></a>
-</p>
+<div align="center" class="fade-in pulse">
+  <img src="https://github.com/muhammad-sabithh/muhammad-sabithh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
 
 ---
 
-## 🏆 GitHub Trophies (Hover Effects)
+<div align="center" class="fade-in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Enthusiastic+AI+%26+ML+Student;Building+Real-World+AI+Solutions;Data+Preprocessing+%26+EDA+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-sabithh&theme=radical&no-frame=true&no-bg=false&margin-w=10" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"></a>
+<p align="center" class="fade-in">
+  🌟 <i>"Great developers are self-made through practice, persistence, and curiosity."</i> 🌟
 </p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sabith-884264357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:muhammadsabith386@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://github.com/muhammad-sabithh">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge">
-  </a>
-</p>
-
----
-
-## 👁️ Visitor Counter  
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/muhammad-sabithh/count.svg" />
-</p>
-
----
-
-## ✨ Fun Animations  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslk9WZVgg1BrgM/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200"/>
-</p>
-
----
-
-⭐ *“Great developers are self-made through practice, persistence, and curiosity.”*  
