@@ -37,29 +37,6 @@
   <img src="https://img.shields.io/badge/Seaborn-%239C4647.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0px); }
-}
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 2s ease-in-out forwards;
-}
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0px); }
-}
-.pulse {
-  animation: pulse 2s infinite;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
 
 ---
 
