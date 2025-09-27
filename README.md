@@ -39,10 +39,27 @@
 
 ---
 
+## 🚀 Featured Projects  
+
+- 🎥 [Real-Time Anomaly Detection in CCTV Footage](https://github.com/muhammad-sabithh/anomaly-detection)  
+- 🧑‍💼 [Smart Attendance System using Face Recognition](https://github.com/muhammad-sabithh/attendance-system)  
+- 🩺 [SafeHorizon - Drug Risk Prediction](https://github.com/muhammad-sabithh/safehorizon)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical" alt="streak" />
+</p>  
+
+---
+
 <div align="center" class="fade-in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Enthusiastic+AI+%26+ML+Student;Building+Real-World+AI+Solutions;Data+Preprocessing+%26+EDA+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
 </div>
 
-<p align="center" class="fade-in">
+<p align="center">
   🌟 <i>"Great developers are self-made through practice, persistence, and curiosity."</i> 🌟
 </p>
