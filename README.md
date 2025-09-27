@@ -10,6 +10,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sabith)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsabith386@gmail.com)
 
 ---
@@ -65,7 +66,7 @@
 ## ⚡ Stats ⚡
 
 <div align="center" class="fade-in">
-  ![Streak Stats](https://streak-stats.demolab.com?user=muhammad-sabithh&theme=radical&border_radius=10&stroke=00F700&background=0D1117)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical&border_radius=10&stroke=00F700&background=0D1117)
   <br><br>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&hide=issues)
   <br><br>
