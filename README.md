@@ -1,65 +1,89 @@
-# Hi 👋, I'm Muhammad Sabith
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=200&section=header&text=Muhammad%20Sabith%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+</p>
 
-### Profile Views :-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammad-sabithh&color=00F700&style=for-the-badge)
+# 👋 Hi, I'm Muhammad Sabith  
 
-- 🌱 I’m currently learning **Deep Learning & AI Innovations** 🤖
-- 🔹 Skilled in **Data Preprocessing, EDA, Model Building** 💻
-- 📫 How to reach me: [muhammadsabith386@gmail.com](mailto:muhammadsabith386@gmail.com)
-- ⚡ Fun fact: **Code, Coffee, and Curiosity** ☕🚀
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sabith)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsabith386@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Deep+Learning+%7C+Computer+Vision;Always+Learning+%26+Innovating" alt="Typing Animation" />
+</div>
 
 ---
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-sabithh&color=00F700&style=for-the-badge)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,pytorch,tensorflow,flask,streamlit,jupyter,git,github,vscode,matplotlib,seaborn" style="animation: float 6s ease-in-out infinite;" />
-</div>
+---
 
+## 🌱 About Me  
+- 📖 Currently learning **Deep Learning & AI Innovations** 🤖  
+- 🔹 Skilled in **Data Preprocessing, EDA, Model Building** 💻  
+- 📫 Reach me at: [muhammadsabith386@gmail.com](mailto:muhammadsabith386@gmail.com)  
+- ⚡ Fun fact: *Code, Coffee, and Curiosity* ☕🚀  
+
+---
+
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Matplotlib-%23172023.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-%239C4647.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <a href="https://linkedin.com/in/muhammad-sabith">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadsabith386@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+## ⚒️ Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,pytorch,tensorflow,flask,streamlit,jupyter,git,github,vscode,matplotlib,seaborn&perline=7" />
+</div>
+
+---
+
+### 🎡 Animated Skills Showcase  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Python;NumPy;Pandas;Scikit-Learn;PyTorch;TensorFlow;Flask;Streamlit;Jupyter;Git;GitHub;Matplotlib;Seaborn" alt="Animated Tech Carousel" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 🎥 [Real-Time Anomaly Detection in CCTV Footage](https://github.com/muhammad-sabithh/anomaly-detection)  
-- 🧑‍💼 [Smart Attendance System using Face Recognition](https://github.com/muhammad-sabithh/attendance-system)  
-- 🩺 [SafeHorizon - Drug Risk Prediction](https://github.com/muhammad-sabithh/safehorizon)  
+- 🎥 [**Real-Time Anomaly Detection in CCTV Footage**](https://github.com/muhammad-sabithh/anomaly-detection)  
+- 🧑‍💼 [**Smart Attendance System using Face Recognition**](https://github.com/muhammad-sabithh/attendance-system)  
+- 🩺 [**SafeHorizon - Drug Risk Prediction**](https://github.com/muhammad-sabithh/safehorizon)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical" alt="streak" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-sabithh&bg_color=141321&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
-<div align="center" class="fade-in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Enthusiastic+AI+%26+ML+Student;Building+Real-World+AI+Solutions;Data+Preprocessing+%26+EDA+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-sabithh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
+
+---
 
 <p align="center">
   🌟 <i>"Great developers are self-made through practice, persistence, and curiosity."</i> 🌟
+</p>
+
+<!-- Futuristic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=120&section=footer"/>
 </p>
