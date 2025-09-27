@@ -1,7 +1,8 @@
-<!-- Futuristic Banner -->
+<!-- Futuristic Calm Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=200&section=header&text=Muhammad%20Sabith%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=200&section=header&text=Muhammad%20Sabith%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
+
 
 # 👋 Hi, I'm Muhammad Sabith  
 
