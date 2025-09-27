@@ -63,26 +63,6 @@
 
 ---
 
-## ⚡ Stats ⚡
-
-<div align="center" class="fade-in">
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sabithh&theme=radical&border_radius=10&stroke=00F700&background=0D1117)
-  <br><br>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sabithh&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&hide=issues)
-  <br><br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sabithh&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF)
-</div>
-
----
-
-## 🐍 My Contributions 🐍
-
-<div align="center" class="fade-in pulse">
-  <img src="https://raw.githubusercontent.com/muhammad-sabithh/muhammad-sabithh/output/snake.svg" alt="Snake animation">
-</div>
-
----
-
 <div align="center" class="fade-in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Enthusiastic+AI+%26+ML+Student;Building+Real-World+AI+Solutions;Data+Preprocessing+%26+EDA+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
 </div>
